@@ -6,6 +6,62 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "aninha@mail.com",
+      "password": "$2a$10$5jY8bu/zpPFIG4m9oWamg.It6.Ep8qMKG4zgsLcsKqRIj.qHc5EbK",
+      "name": "Ana Laura",
+      "age": 23,
+      "id": 2
+    },
+    {
+      "email": "analaura@mail.com",
+      "password": "$2a$10$4rxhZ/b8ut3NvY6JZibtPeCvn0gOYbX.PDGTFEs3L2.VSHIwLmDjK",
+      "id": 3
+    },
+    {
+      "email": "analaura1@mail.com",
+      "password": "$2a$10$8kfrkAGwD1tI5PbyN0oP8u5H.DzKgv/ivGZw.SPFpQ8gF.qRRcZzS",
+      "id": 4
+    }
+  ],
+  "posts": [
+    {
+      "post": "Quero conseguir ter minha receita oficial!",
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "post": "A receita que quero como oficial aqui: ",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "post": "Minha receita fresquinha",
+      "userId": 2,
+      "id": 2
+    }
+  ],
+  "recipes": [
+    {
+      "name": "Bolo de Chocolate",
+      "ingredients": "4 ovos, 4 colheres (sopa) de chocolate em pó, 2 colheres (sopa) de manteiga, 3 xícaras (chá) de farinha de trigo, 2 xícaras (chá) de açúcar, 2 colheres (sopa) de fermento, 1 xícara (chá) de leite",
+      "id": 1
+    },
+    {
+      "name": "Lasanha",
+      "ingredients": "500 g de massa de lasanha, 500 g de carne moída, 2 caixas de creme de leite, 3 colheres de manteiga, 3 colheres de farinha de trigo, 500 g de presunto, 500 g de mussarela, sal a gosto, 2 copos de leite, 1 cebola ralada, 3 colheres de óleo, 1 caixa de molho de tomate, 3 dentes de alho amassados, 1 pacote de queijo ralado",
+      "id": 2
+    },
+    {
+      "name": "Brownie com Nozes",
+      "ingredients": "3 ovos, 1 xícara de açúcar, 100 g de margarina, 1/2 xícara de chocolate em pó, 1 xícara de farinha de trigo, 1 cálice licor de chocolate opcional, 1 colher de chá de fermento, 100 g de nozes picadas",
+      "id": 3
+    },
+    {
+      "name": "Pizza",
+      "ingredients": "1 kg de farinha de trigo, 30 g de fermento biológico, 3 xícaras de água morna, 3/4 xícaras de óleo, 1 colher (chá) de sal, 1 colher (chá) de açúcar, 1 colher (sopa) de pinga ",
+      "id": 4
     }
   ]
 }
