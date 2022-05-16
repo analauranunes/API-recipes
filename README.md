@@ -4,7 +4,7 @@ Este é um teste de backend com intuito de aprender mais sobre API's e json-serv
 
 ## **Endpoints**
 
-Essa API tem um total de 10 endpoits, sendo eles 3 para cadastro, 2 para login, 1 para listar os dados do usuário logado, 3 para os posts e 2 para as recipes. Url base da API é "".
+Essa API tem um total de 10 endpoits, sendo eles 3 para cadastro, 2 para login, 1 para listar os dados do usuário logado, 3 para os posts e 2 para as recipes. Url base da API é "https://kenzie-recipes.herokuapp.com".
 
 ### Cadastro
 
@@ -84,7 +84,6 @@ Qualquer um desses endpoints acima irá realizar o login de algum usuário já c
     {
 	"email": "aninha@mail.com",
 	"password": "$2a$10$5jY8bu/zpPFIG4m9oWamg.It6.Ep8qMKG4zgsLcsKqRIj.qHc5EbK",
-	"name": "Ana Laura",
 	"age": 23,
 	"id": 2
     }
